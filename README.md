@@ -44,7 +44,7 @@ The main goal of this project is to showcase **end-to-end CI/CD automation** on 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/My-AWS-DevOp-Project.git
+   git clone https://github.com/saumyasingh9/My-AWS-DevOp-Project.git
    ```
 2. Push the code to **AWS CodeCommit**.
 3. Configure **CodeBuild** with the provided `buildspec.yml`.

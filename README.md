@@ -18,5 +18,5 @@ Welcome to the City Direction Web App Deployment project repository! This reposi
 
 Feel free to contribute to this project by submitting pull requests or opening issues.
 
-Happy coding! 🚀
+
 

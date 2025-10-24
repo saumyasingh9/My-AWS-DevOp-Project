@@ -1,6 +1,6 @@
 # My-AWS-DevOp-Project
 
-## City Direction Web App Deployment on AWS
+## City Direction Web App Deployment on AWS using CI/CD
 
 Welcome to the **City Direction Web App Deployment** project repository!
 This project demonstrates how to deploy a **static web application** that provides directions between cities using **AWS DevOps services**.
